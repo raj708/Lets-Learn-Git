@@ -1,3 +1,6 @@
+
 # Lets-Learn-Git
-Learn Git
-Answer is 9
+
+This basic example of some math problem
+
+
