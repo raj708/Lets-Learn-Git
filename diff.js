@@ -1,3 +1,4 @@
-function name(params) {
-    
+function greating(greet) {
+ return greet   
 }
+greating("Good Morning")
